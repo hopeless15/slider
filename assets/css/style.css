@@ -69,11 +69,13 @@ body {
   transition: opacity 1s;
   opacity: 0;
 }
+
 .control-pause:hover,
 .control-pause:focus {
   transition: opacity 3s 0.5s;
   opacity: 1;
 }
+
 .control-pause span {
   position: absolute;
   display: block;
@@ -143,4 +145,8 @@ body {
   font-size: 48px;
   color: #ffffff;
   text-align: center;
+}
+
+h1 {
+  user-select: none;
 }
