@@ -26,5 +26,4 @@ class SwipeCarousel extends Carousel {
   }
 }
 
-
 export default SwipeCarousel;

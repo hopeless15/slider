@@ -166,6 +166,4 @@ class Carousel {
   }
 }
 
-Carousel.prototype.constructor = Carousel
-
 export default Carousel;
